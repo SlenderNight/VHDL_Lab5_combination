@@ -1,0 +1,64 @@
+E:/Modelsim_Vivado/lab5_combination/src/ModeComparator.v {1 {vlog -work work -vopt -stats=none E:/Modelsim_Vivado/lab5_combination/src/ModeComparator.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module ModeComparator
+
+Top level modules:
+	ModeComparator
+
+} {} {}} E:/Modelsim_Vivado/lab5_combination/src/0abs_dif_tb.v {1 {vlog -work work -vopt -stats=none E:/Modelsim_Vivado/lab5_combination/src/0abs_dif_tb.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module abs_dif_tb
+
+Top level modules:
+	abs_dif_tb
+
+} {} {}} E:/Modelsim_Vivado/lab5_combination/src/full_adder.v {1 {vlog -work work -vopt -stats=none E:/Modelsim_Vivado/lab5_combination/src/full_adder.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module full_adder
+
+Top level modules:
+	full_adder
+
+} {} {}} E:/Modelsim_Vivado/lab5_combination/src/0ModeComparator_tb.v {1 {vlog -work work -vopt -stats=none E:/Modelsim_Vivado/lab5_combination/src/0ModeComparator_tb.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module ModeComparator_tb
+
+Top level modules:
+	ModeComparator_tb
+
+} {} {}} E:/Modelsim_Vivado/lab5_combination/src/0full_adder_tb.v {1 {vlog -work work -vopt -stats=none E:/Modelsim_Vivado/lab5_combination/src/0full_adder_tb.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module full_adder_tb_v
+
+Top level modules:
+	full_adder_tb_v
+
+} {} {}} E:/Modelsim_Vivado/lab5_combination/src/comp.v {1 {vlog -work work -vopt -stats=none E:/Modelsim_Vivado/lab5_combination/src/comp.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module comp
+
+Top level modules:
+	comp
+
+} {} {}} E:/Modelsim_Vivado/lab5_combination/src/0comp_tb.v {1 {vlog -work work -vopt -stats=none E:/Modelsim_Vivado/lab5_combination/src/0comp_tb.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module comp_tb
+
+Top level modules:
+	comp_tb
+
+} {} {}} E:/Modelsim_Vivado/lab5_combination/src/0mux_2to1_tb.v {1 {vlog -work work -vopt -stats=none E:/Modelsim_Vivado/lab5_combination/src/0mux_2to1_tb.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module mux_2to1_tb_v
+
+Top level modules:
+	mux_2to1_tb_v
+
+} {} {}} E:/Modelsim_Vivado/lab5_combination/src/abs_dif.v {1 {vlog -work work -vopt -stats=none E:/Modelsim_Vivado/lab5_combination/src/abs_dif.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module abs_dif
+
+Top level modules:
+	abs_dif
+
+} {} {}}
